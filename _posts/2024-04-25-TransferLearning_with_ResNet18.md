@@ -1,6 +1,6 @@
 # An Exercise in Transfer Learning
 
-Ttable of contents:
+Table of contents:
 
 1. TOC
 {:toc}
