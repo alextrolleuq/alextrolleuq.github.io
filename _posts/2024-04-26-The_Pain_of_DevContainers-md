@@ -1,5 +1,7 @@
 # The Pain of Dev Containers
 
+{% include alert.html text="Not recommended if you are easily frustrated" %}
+
 This last week I have struggeled alot with dev containers. I used quite a few hours getting it to run on cpufrozen (from my assignment), 
 and there was always something that went wrong. I asked chatgpt for help, but even one of the biggest LLM couldn't help to much with this.
 Here I will relive some of my pain, hope you enjoy!
