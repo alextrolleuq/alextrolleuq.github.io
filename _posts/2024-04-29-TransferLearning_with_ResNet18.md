@@ -1,5 +1,10 @@
 # An Exercise in Transfer Learning
 
+Ttable of contents:
+
+1. TOC
+{:toc}
+
 ## The Assignment
 
 Our assignment wanted us to create a jupyter notebook to classify the same classes as the CIFAR10 dataset. These are the following classes:
