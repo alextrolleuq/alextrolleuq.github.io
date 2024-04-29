@@ -1,7 +1,7 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello and welcome to my blog! This is mainly my thoughts on what we do in class. As the title suggest, it is alot of AI and computer stuff.
 
+I will use fast.ai alot, and for further reading see: [link to fast.ai](https://www.fast.ai).
+I don't really want my face on her (atleast for now), but here is a picture of the fast.ai logo :)
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
