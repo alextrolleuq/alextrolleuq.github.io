@@ -6,6 +6,11 @@ This last week I have struggeled alot with dev containers. I used quite a few ho
 and there was always something that went wrong. I asked chatgpt for help, but even one of the biggest LLM couldn't help to much with this.
 Here I will relive some of my pain, hope you enjoy!
 
+Here's the table of contents:
+
+1. TOC
+{:toc}
+
 ## Getting CPUFROZEN up and running
 Our professor created the whole setup for us to use dev containers, which after struggeling so much myself I find impressiv. 
 
