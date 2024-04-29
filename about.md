@@ -1,4 +1,4 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+I am an international student from Norway doing an exhange year in Brisbane:) I go to UQ, and I am enrolled in ELEC4630.
 
