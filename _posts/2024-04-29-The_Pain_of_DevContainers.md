@@ -6,7 +6,7 @@ This last week I have struggeled alot with dev containers. I used quite a few ho
 and there was always something that went wrong. I asked chatgpt for help, but even one of the biggest LLM couldn't help to much with this.
 Here I will relive some of my pain, hope you enjoy!
 
-Here's the table of contents:
+Table of contents:
 
 1. TOC
 {:toc}
