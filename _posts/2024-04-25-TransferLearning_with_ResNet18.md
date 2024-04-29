@@ -31,6 +31,6 @@ if I do it again in some point in time I think it would be a good idea to use a 
 ## Confusion Matrix
 Here is my confusion matrix:
 
-![Confusion Matrix]("C:\Users\aaale\Downloads\438223487_1472977886927574_3038152678348461733_n.png")
+![Confusion Matrix](images/confusion_matrix.png)
 
 As we can see, it worked pretty good, with the only major problems being that automobile and truck misclassified each other quite a bit. It does make sense though, as I personally would classify them both as 'cars'.
